@@ -1,0 +1,6 @@
+C:\Users\jdave\Desktop\DownloadMultiple\DownloadMultiple\bin\Debug\DownloadMultiple.exe.config
+C:\Users\jdave\Desktop\DownloadMultiple\DownloadMultiple\bin\Debug\DownloadMultiple.exe
+C:\Users\jdave\Desktop\DownloadMultiple\DownloadMultiple\bin\Debug\DownloadMultiple.pdb
+C:\Users\jdave\Desktop\DownloadMultiple\DownloadMultiple\obj\Debug\DownloadMultiple.csprojResolveAssemblyReference.cache
+C:\Users\jdave\Desktop\DownloadMultiple\DownloadMultiple\obj\Debug\DownloadMultiple.exe
+C:\Users\jdave\Desktop\DownloadMultiple\DownloadMultiple\obj\Debug\DownloadMultiple.pdb
